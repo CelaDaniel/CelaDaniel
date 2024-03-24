@@ -1,4 +1,4 @@
-## Technical Team Lead | Full Stack Software Engineer
+# Technical Team Lead | Full Stack Software Engineer
 
 <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px">  Seasoned full stack engineer orientend in frontend. 
 🚀 Leading a skilled team to craft responsive and captivating web applications. 
