@@ -8,6 +8,9 @@ Let's connect to discuss how I can contribute to your success! 📈
 
 ---
 
+![image](https://github.com/user-attachments/assets/bbcd27d6-079b-4dce-bed8-978f085a8d79)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
