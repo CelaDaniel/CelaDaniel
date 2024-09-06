@@ -1,10 +1,14 @@
 # 👨‍💻 Senior Full Stack Developer
 
-<img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px">  Seasoned full stack engineer orientend in frontend.  <br/>
-🚀 Leading a skilled team to craft responsive and captivating web applications. <br/>
-🌐 Committed to quality and performance, I oversee projects from design to deployment, aligning with business objectives.  <br/>  <br/>
-Always exploring the latest trends to offer cutting-edge solutions.  <br/>
-Let's connect to discuss how I can contribute to your success! 📈
+<img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="25px"> Welcome to My GitHub!
+
+I’m a Software Engineer passionate about building scalable, high-performance applications that address real-world problems. My focus is on delivering efficient and maintainable code, whether it's through sleek front-end architectures or robust back-end systems. 
+
+🌐 Coding to me is a balance of creativity and logic. With a solid background in modern web technologies, I enjoy exploring new frameworks and tools to push the boundaries of what's possible. My repositories feature solutions to challenges I’ve faced in projects—feel free to explore and contribute!
+
+On this GitHub, you'll find a variety of projects, from full-stack applications to libraries and tools aimed at improving development workflows. Each project represents my dedication to learning, improving, and sharing knowledge with the community.
+
+📈 Let's Collaborate I’m always open to discussing potential collaborations or helping solve interesting technical problems. Let’s connect if you’d like to collaborate or explore a project together.
 
 ---
 
