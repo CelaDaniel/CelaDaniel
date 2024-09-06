@@ -5,9 +5,9 @@
 🌍 Based in Tirana, Albania </br>
 🖥️ See my portfolio at [My Portfolio](http://www.danielcela.com/) </br> 
 ✉️ You can contact me at [danielcela.contact@gmail.com](mailto:danielcela.contact@gmail.com) </br> 
-🚀 Currently working on real-time data applications for international sporting events </br>
-🧠 Exploring AI and integrating machine learning to create smarter, intuitive user experiences. </br>
-⚡ Always exploring new tech to deliver cutting-edge solutions and keep projects ahead.
+🚀 Currently building real-time data apps for international sports </br> 
+🧠 Exploring AI to create smarter user experiences </br> 
+⚡ Always diving into new tech to stay ahead
 
 <img alt="github contribution grid snake animation" src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd">
 
