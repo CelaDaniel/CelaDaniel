@@ -1,16 +1,13 @@
-# 👨‍💻 Senior Full Stack Developer
+# <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> Hi, I'm Daniel!
 
-<img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="25px"> Welcome to My GitHub!
+###  🚀 Coding like it’s 2050, but debugging like it’s 1999.
 
-I’m a Software Engineer passionate about building scalable, high-performance applications that address real-world problems. My focus is on delivering efficient and maintainable code, whether it's through sleek front-end architectures or robust back-end systems. 
-
-🌐 Coding to me is a balance of creativity and logic. With a solid background in modern web technologies, I enjoy exploring new frameworks and tools to push the boundaries of what's possible. My repositories feature solutions to challenges I’ve faced in projects—feel free to explore and contribute!
-
-On this GitHub, you'll find a variety of projects, from full-stack applications to libraries and tools aimed at improving development workflows. Each project represents my dedication to learning, improving, and sharing knowledge with the community.
-
-📈 Let's Collaborate I’m always open to discussing potential collaborations or helping solve interesting technical problems. Let’s connect if you’d like to collaborate or explore a project together.
-
----
+🌍 Based in Tirana, Albania </br>
+🖥️ See my portfolio at [My Portfolio](http://www.danielcela.com/) </br> 
+✉️ You can contact me at [danielcela.contact@gmail.com](mailto:danielcela.contact@gmail.com) </br> 
+🚀 Currently working on real-time data applications for international sporting events </br>
+🧠 Exploring AI and integrating machine learning to create smarter, intuitive user experiences. </br>
+⚡ Always exploring new tech to deliver cutting-edge solutions and keep projects ahead.
 
 <img alt="github contribution grid snake animation" src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd">
 
