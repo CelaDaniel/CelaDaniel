@@ -9,6 +9,8 @@
 🧠 Exploring AI to create smarter user experiences </br> 
 ⚡ Always diving into new tech to stay ahead
 
+[![Daniel Cela LinkedIn](https://github.com/user-attachments/assets/f53c8f4c-3445-416a-be6a-cedb1e131554)](https://al.linkedin.com/in/celadaniel?trk=profile-badge)
+              
 <img alt="github contribution grid snake animation" src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd">
 
 <picture>
