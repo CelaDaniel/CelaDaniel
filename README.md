@@ -5,7 +5,6 @@
 ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
 
 🌍 Based in Tirana, Albania  
-✉️ Contact me: [danielcela.contact@gmail.com](mailto:danielcela.contact@gmail.com)  
 🚀 Currently building real-time data apps for international sports  
 🧠 Exploring AI to create smarter user experiences  
 ⚡ Always diving into new tech to stay ahead
