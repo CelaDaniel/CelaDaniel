@@ -1,3 +1,4 @@
+<img alt="github banner" src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd"> </br>
 # <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> Hi, I'm Daniel!
 
 ###  🚀 Coding like it’s 2050, but debugging like it’s 1999.
@@ -8,8 +9,6 @@
 🚀 Currently building real-time data apps for international sports </br> 
 🧠 Exploring AI to create smarter user experiences </br> 
 ⚡ Always diving into new tech to stay ahead
-
-<img alt="github banner" src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
