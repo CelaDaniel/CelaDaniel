@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd" alt="GitHub Banner">
 
-# <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> Hi, I'm Daniel!
+# <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> Hi, I'm [Daniel](https://github.com/CelaDaniel)!
 
 ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
 
