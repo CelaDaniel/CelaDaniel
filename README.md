@@ -1,21 +1,29 @@
-<img src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd" alt="GitHub Banner" width="100%">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd" alt="GitHub Banner" width="100%">
+</div>
 
 # <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> Hi, I'm [Daniel](https://github.com/CelaDaniel)!
+  
+  ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
+  🌍 Based in **Tirana, Albania**  
+  🖥️ Check out my portfolio: [My Portfolio](http://www.danielcela.com/)  
+  ✉️ Contact me: [danielcela.contact@gmail.com](mailto:danielcela.contact@gmail.com)  
+  🚀 Currently building **real-time data apps for international sports**  
+  🧠 Exploring **AI** to create smarter user experiences  
+  ⚡ Always diving into **new tech** to stay ahead
 
-### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
+  ## 🌐 Connect with me:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) 
 
-🌍 Based in **Tirana, Albania**  
-🖥️ Check out my portfolio: [My Portfolio](http://www.danielcela.com/)  
-✉️ Contact me: [danielcela.contact@gmail.com](mailto:danielcela.contact@gmail.com)  
-🚀 Currently building **real-time data apps for international sports**  
-🧠 Exploring **AI** to create smarter user experiences  
-⚡ Always diving into **new tech** to stay ahead
-
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) 
-
-### 💻 Technical Skills:
+  ## 💻 Technical Skills:
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -61,45 +69,43 @@
   ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=seo&logoColor=black)
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
-## 📊 GitHub Stats & Achievements:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
 
 <div align="center">
 
-### 🔥 GitHub Streak
+ ## 📊 GitHub Stats & Achievements:
+
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celadaniel&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-### 🚀 GitHub Stats
+## 🚀 GitHub Stats
 
 ![Daniel Cela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celadaniel&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&hide_title=true)
 
-### 📊 Top Languages
+## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celadaniel&layout=compact&theme=highcontrast&hide_border=true)
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Celadaniel&theme=matrix&no-frame=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-## 💡 Random Dev Quote:
+
 
 <div align="center">
-
+  
+## 💡 Random Dev Quote:
+  
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
 
 </div>
 
-## 📂 Top Contributed Repos:
-
 <div align="center">
+
+## 📂 Top Contributed Repos:
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=CelaDaniel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
