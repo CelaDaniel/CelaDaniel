@@ -66,13 +66,35 @@
   ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=seo&logoColor=black)
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CelaDaniel&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=CelaDaniel&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CelaDaniel&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+# 📊 GitHub Stats & Achievements
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=CelaDaniel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<div align="center">
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celadaniel&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 🚀 GitHub Stats
+
+![Daniel Cela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celadaniel&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&hide_title=true)
+
+---
+
+### 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celadaniel&layout=compact&theme=highcontrast&hide_border=true)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Celadaniel&theme=matrix&no-frame=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
