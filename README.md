@@ -97,7 +97,7 @@
   
 ### 💡 Random Dev Quote:
   
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast&hide_border=true)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
 
 </div>
 
