@@ -97,7 +97,7 @@
   
 ### 💡 Random Dev Quote:
   
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast&hide_border=true)
 
 </div>
 
@@ -105,6 +105,7 @@
 
 ### 📂 Top Contributed Repos:
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=CelaDaniel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=CelaDaniel&limit=5&theme=highcontrast&hide_border=true&combine_all_yearly_contributions=true)
 
 </div>
+
