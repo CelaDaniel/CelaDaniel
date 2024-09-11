@@ -85,6 +85,16 @@
   
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
 
+<br>
+<h3> Visitors counter </h3>
+<p>
+  <a href="https://github.com/CelaDaniel">
+    <img align="center" src="https://profile-counter.glitch.me/{celadaniel}/count.svg" />
+    </a>
+</p>
+
 </div>
+
+
 
 
