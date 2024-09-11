@@ -73,7 +73,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats & Achievements:
+## 📊 GitHub Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celadaniel&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
