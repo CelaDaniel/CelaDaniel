@@ -75,37 +75,16 @@
 
 ## 📊 GitHub Stats & Achievements:
 
-### 🔥 GitHub Streak
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celadaniel&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-### 🚀 GitHub Stats
-
-![Daniel Cela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Celadaniel&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&hide_title=true)
-
-### 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celadaniel&layout=compact&theme=highcontrast&hide_border=true)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Celadaniel&theme=matrix&no-frame=true&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
   
-### 💡 Random Dev Quote:
+## ✍️ Random Dev Quote:
   
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
 
 </div>
 
-<div align="center">
-
-### 📂 Top Contributed Repos:
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=CelaDaniel&limit=5&theme=highcontrast&hide_border=true&combine_all_yearly_contributions=true)
-
-</div>
 
