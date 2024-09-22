@@ -72,22 +72,6 @@
 
 <br/>
 
-<div align="center">
-
-## 📊 GitHub Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celadaniel&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-## ✍️ Random Dev Quote:
-  
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
-
-</div>
-
 
 
 
