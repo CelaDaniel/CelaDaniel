@@ -5,12 +5,13 @@
 # <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> Hi, I'm [Daniel](https://github.com/CelaDaniel)!
   
   ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
-  <li>🌍 Based in **Tirana, Albania**  </li>
-  <li>🖥️ Check out my portfolio: <b>[My Portfolio](http://www.danielcela.com/)</b>  </li>
-  <li>✉️ Contact me: <b>[danielcela.contact@gmail.com](mailto:danielcela.contact@gmail.com)</b>  </li>
-  <li>🚀 Currently building **real-time data apps for international sports**  </li>
-  <li>🧠 Exploring **AI** to create smarter user experiences  </li>
-  <li>⚡ Always diving into **new tech** to stay ahead</li>
+<li>🌍 Based in <strong>Tirana, Albania</strong></li>
+<li>🖥️ Check out my portfolio: <a href="http://www.danielcela.com/" target="_blank"><strong>My Portfolio</strong></a></li>
+<li>✉️ Contact me: <a href="mailto:danielcela.contact@gmail.com"><strong>danielcela.contact@gmail.com</strong></a></li>
+<li>🚀 Currently building <strong>real-time data apps for international sports</strong></li>
+<li>🧠 Exploring <strong>AI</strong> to create smarter user experiences</li>
+<li>⚡ Always diving into <strong>new tech</strong> to stay ahead</li>
+
   
 <div align="center">
   <picture>
