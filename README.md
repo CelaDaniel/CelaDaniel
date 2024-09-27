@@ -5,7 +5,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> 
   Hi, I'm <a href="https://github.com/CelaDaniel">Daniel</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
+  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel&base=80000&abbreviated=true">
 </h1>
 
 
