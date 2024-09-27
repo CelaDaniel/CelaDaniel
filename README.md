@@ -2,7 +2,17 @@
   <img src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd" alt="GitHub Banner" width="100%">
 </div>
 
-# <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> Hi, I'm [Daniel](https://github.com/CelaDaniel)!
+<h1>
+  <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> 
+  Hi, I'm <a href="https://github.com/CelaDaniel">Daniel</a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
+</h1>
+
+
+
+
+
+
   
   ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
 <li>🌍 Based in <strong>Tirana, Albania</strong></li>
@@ -20,10 +30,14 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
   
   ## 🌐 Let's Connect:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) 
 
+  <br/>
+  
   ## 💻 Technical Skills:
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
