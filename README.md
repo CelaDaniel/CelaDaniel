@@ -5,7 +5,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> 
   Hi, I'm <a href="https://github.com/CelaDaniel">Daniel</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel&base=80000">
+  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
 </h1>
 
   ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
