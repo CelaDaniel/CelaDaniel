@@ -58,11 +58,11 @@
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
   ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-  ![TypeORM](https://img.shields.io/badge/TypeORM-FF6F00?style=flat)
+  ![TypeORM](https://img.shields.io/badge/TypeORM-FF6F00?style=flat&logo=typeorm&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white)
-  ![Lerna](https://img.shields.io/badge/Lerna-3E4E88?style=flat)
+  ![Lerna](https://img.shields.io/badge/Lerna-3E4E88?style=flat&logo=lerna&logoColor=white)
   ![Caddy](https://img.shields.io/badge/Caddy-000000?style=flat&logo=caddy&logoColor=white&labelColor=000000)
   ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
@@ -72,7 +72,7 @@
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
   ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white)
   ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=seo&logoColor=black)
+  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 <br/>
