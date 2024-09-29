@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e09d2c1d-0886-459c-8687-b0e8f81941fd" alt="GitHub Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/16c5ce2d-0ef8-4654-8f2b-2c150d954349" alt="GitHub Banner" width="100%">
 </div>
 
 <h1>
@@ -8,12 +8,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel&base=80000">
 </h1>
 
-
-
-
-
-
-  
   ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
 <li>🌍 Based in <strong>Tirana, Albania</strong></li>
 <li>🖥️ Check out my portfolio: <a href="http://www.danielcela.com/" target="_blank"><strong>My Portfolio</strong></a></li>
@@ -22,7 +16,6 @@
 <li>🧠 Exploring <strong>AI</strong> to create smarter user experiences</li>
 <li>⚡ Always diving into <strong>new tech</strong> to stay ahead</li>
 
-  
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -30,8 +23,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
   
   ## 🌐 Let's Connect:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) 
