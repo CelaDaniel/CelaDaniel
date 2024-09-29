@@ -25,7 +25,8 @@
 </div>
   
   ## 🌐 Let's Connect:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-👋%20Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel)
+
   
   ## 💻 Technical Skills:
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
