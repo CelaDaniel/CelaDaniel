@@ -63,6 +63,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white)
   ![Lerna](https://img.shields.io/badge/Lerna-3E4E88?style=flat)
+  ![Caddy](https://img.shields.io/badge/Caddy-00BFB3?style=flat)
   ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
