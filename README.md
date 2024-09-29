@@ -79,6 +79,10 @@
 
 <br/>
 
- <img align="right" src="https://img.icons8.com/material-outlined/30/ffffff/github.png" alt="GitHub Icon">
+<a href="https://github.com/CelaDaniel" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/30/ffffff/github.png" alt="GitHub Icon">
+</a>
+
+
 
 
