@@ -8,7 +8,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
 </h1>
 
-  ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.   <img align="right" src="https://img.icons8.com/material-outlined/200/ffffff/github.png" alt="GitHub Icon">
+  ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
 <li>🌍 Based in <strong>Tirana, Albania</strong></li>
 <li>🖥️ Check out my portfolio: <a href="http://www.danielcela.com/" target="_blank"><strong>My Portfolio</strong></a></li>
 <li>✉️ Contact me: <a href="mailto:danielcela.contact@gmail.com"><strong>danielcela.contact@gmail.com</strong></a></li>
