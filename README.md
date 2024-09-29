@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/material-outlined/100/ffffff/github.png" alt="GitHub Icon">
-  <br/>
-  <br/>
-  <br/>
   <img src="https://github.com/user-attachments/assets/16c5ce2d-0ef8-4654-8f2b-2c150d954349" alt="GitHub Banner" width="100%">
 </div>
 
