@@ -26,10 +26,9 @@
   
   ## 🌐 Let's Stay Connected:
 
-<a href="https://linkedin.com/in/celadaniel" target="_blank">
+<a href="https://linkedin.com/in/celadaniel" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-🤝%20Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 
   
   ## 💻 Technical Skills:
