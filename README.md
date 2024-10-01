@@ -10,7 +10,7 @@
 
   ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
 <li>🌍 Based in <strong>Tirana, Albania</strong></li>
-<li>🖥️ Check out my portfolio: <a href="http://www.danielcela.com/" target="_blank"><strong>My Portfolio</strong></a></li>
+<li>🖥️ Explore My Work: <a href="http://www.danielcela.com/" target="_blank"><strong>Portfolio</strong></a></li>
 <li>✉️ Contact me: <a href="mailto:danielcela.contact@gmail.com"><strong>danielcela.contact@gmail.com</strong></a></li>
 <li>🚀 Currently building <strong>real-time data apps for international sports</strong></li>
 <li>🧠 Exploring <strong>AI</strong> to create smarter user experiences</li>
