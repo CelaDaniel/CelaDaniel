@@ -3,18 +3,36 @@
 </div>
 
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px"/> 
   Hi, I'm <a href="https://github.com/CelaDaniel">Daniel</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
 </h1>
 
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="17px"> Coding like it’s 2050, but debugging like it’s 1999.
-<li>🌍 Based in <strong>Tirana, Albania</strong></li>
-<li>🖥️ Explore My Work: <a href="http://www.danielcela.com/" target="_blank"><strong>Portfolio</strong></a></li>
-<li>✉️ Contact me @: <a href="mailto:danielcela.contact@gmail.com"><strong>danielcela.contact@gmail.com</strong></a></li>
-<li>🚀 Currently building <strong>real-time data apps for international sports</strong></li>
-<li>🧠 Exploring <strong>AI</strong> to create smarter user experiences</li>
-<li>⚡ Always diving into <strong>new tech</strong> to stay ahead</li>
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" /> Coding like it’s 2050, but debugging like it’s 1999.</div>
+
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="30px" align="center" /> Based in <strong>Tirana, Albania</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="30px" align="center" /> Explore My Work: <a href="http://www.danielcela.com/" target="_blank"><strong>Portfolio</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="30px" align="center" /> Contact me @: <a href="mailto:danielcela.contact@gmail.com"><strong>danielcela.contact@gmail.com</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" /> Currently building <strong>real-time data apps for international sports</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="30px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
+  </li>
+</ul>
+
+
+
 
 <div align="center">
   <picture>
