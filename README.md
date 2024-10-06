@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner" width="100%">
-
-
 </div>
 
 <h1>
@@ -11,7 +9,7 @@
 </h1>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/99d76a77-2bf2-4f59-abba-e518c80b41cd" width="300px" align="right" />
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" />
 </div>
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" /> Coding like it’s 2050, but debugging like it’s 1999.</div> 
