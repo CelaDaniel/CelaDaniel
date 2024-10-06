@@ -44,7 +44,8 @@
   
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="30px" align="center" /> Let's Stay Connected:</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🤝%20Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="hand shake"/>
+
 
   ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" /> Technical Skills:</div>
 
