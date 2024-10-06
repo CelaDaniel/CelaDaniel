@@ -99,6 +99,8 @@
   ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
   ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
   ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+  ![PixiJS](https://img.shields.io/badge/PixiJS-FFDD00?style=flat&logo=pixiv&logoColor=black)
+  ![Spine](https://img.shields.io/badge/Spine-FFB83D?style=flat&logo=spine&logoColor=black)
 
 <br/>
 
