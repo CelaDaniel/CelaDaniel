@@ -8,7 +8,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
 </h1>
 
-  ### 🚀 Coding like it’s 2050, but debugging like it’s 1999.
+  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="17px"> Coding like it’s 2050, but debugging like it’s 1999.
 <li>🌍 Based in <strong>Tirana, Albania</strong></li>
 <li>🖥️ Explore My Work: <a href="http://www.danielcela.com/" target="_blank"><strong>Portfolio</strong></a></li>
 <li>✉️ Contact me @: <a href="mailto:danielcela.contact@gmail.com"><strong>danielcela.contact@gmail.com</strong></a></li>
