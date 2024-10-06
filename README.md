@@ -3,7 +3,7 @@
 </div>
 
 <h1>
-  <img src="https://raw.githubusercontent.com/promathieuthiry/promathieuthiry/master/wave.gif" width="30px"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> 
   Hi, I'm <a href="https://github.com/CelaDaniel">Daniel</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
 </h1>
