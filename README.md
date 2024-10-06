@@ -4,7 +4,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"/> 
-  Hi, I'm <a href="https://github.com/CelaDaniel"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="50px"/> Daniel</a>!
+  Hi, I'm <a href="https://github.com/CelaDaniel"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" width="60px"/> Daniel</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel">
 </h1>
 
