@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f8b1d6e0-5f7a-457c-9c9d-2136cad7640e" alt="GitHub Banner showcasing a professional profile" width="100%">
+  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
-
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
