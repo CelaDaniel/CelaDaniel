@@ -111,7 +111,7 @@
   
 <br/>
 
-![gifgithub](https://github.com/user-attachments/assets/ce6ce4a1-4b60-4d43-832f-4667a6bef70c)
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
 <br/>
 
