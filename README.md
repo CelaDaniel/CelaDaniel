@@ -111,6 +111,10 @@
   
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" alt="Coding Emoji" />
+
+<br/>
+
 <a href="https://github.com/CelaDaniel" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
