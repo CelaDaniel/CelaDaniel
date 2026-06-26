@@ -3,7 +3,7 @@
 </div>
 
 <h1>
-  Hi, I'm <a href="http://www.danielcela.com/">Daniel</a>!
+Hi there, I'm <a href="http://www.danielcela.com/">Daniel</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
 </h1>
 
