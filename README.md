@@ -11,9 +11,6 @@ Hi there, I'm <a href="http://www.danielcela.com/">Daniel</a>!
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div>Coding like it’s 2050, but debugging like it’s 1999.</div> 
-
-
 <ul>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Tirana, Albania</strong>
